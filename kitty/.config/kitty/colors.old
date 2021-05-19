@@ -1,0 +1,68 @@
+# Default Background
+#background #323F4E
+#foreground #F3F4F5
+#cursor     #F3F4F5
+#color0     #3D4C5F
+#color1     #F48FB1
+#color2     #A1EFD3
+#color3     #F1FA8C
+#color4     #92B6F4
+#color5     #BD99FF
+#color6     #87DFEB
+#color7     #F8F8F2
+#color8     #56687E
+#color9     #EE4F84
+#color10    #53E2AE
+#color11    #F1FF52
+#color12    #6498EF
+#color13    #985EFF
+#color14    #24D1E7
+#color15    #E5E5E5
+
+
+# Arc Dark
+#background #353944
+background #1a1a28
+foreground #f8f8f2
+cursor     #f8f8f2
+color0     #404552
+color1     #e2868b
+color2     #b6e9b5
+color3     #f1fa8c
+color4     #58a0f5
+color5     #BD99FF
+color6     #87DFEB
+color7     #FFFFFF
+color8     #2f343f
+color9     #c0222b
+color10    #13933b
+color11    #b59d0b
+color12    #145aac
+color13    #7d40ea
+color14    #2aaebe
+color15    #999999
+
+
+# The foreground for selections
+selection_foreground #f8f8f2
+# The background for selections
+selection_background #5f636e
+
+# Emacs terminal background
+color17    #323F4E
+# Emacs terminal modeline
+color23    #3D4C5F
+
+# The color for the border of the active window
+active_border_color #F1FA8C
+
+# The color for the border of inactive windows
+inactive_border_color #56687E
+   
+url_color #6498EF
+
+active_tab_foreground #F8F8F2
+active_tab_background #24D1E7
+inactive_tab_foreground #F8F8F2
+inactive_tab_background #3D4C5F
+
